@@ -39,7 +39,7 @@ An AI-powered stock sentiment analysis platform that aggregates real-time data f
 ### 1. Clone and Setup
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Deekshith-Proj/Stock_Prediction_2
 cd stock_pred_2
 ```
 
